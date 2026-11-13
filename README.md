@@ -12,6 +12,7 @@ features and current progress.
 ↓
 [Query] → [Search] → [Ranker] → [Results]
 
+Standard [Go project layout](https://github.com/golang-standards/project-layout).   
 
 See [docs/architecture.md](docs/architecture.md) for details.
 
